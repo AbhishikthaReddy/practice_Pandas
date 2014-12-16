@@ -4,6 +4,6 @@ This is my repo for practicing, learning and demonstrating data munging/processi
 
 Feel free to use this for your own reference or learning. Just clone the repo or download the .ipynb files. The IPython notebooks can also be viewed online below:  
 
-[Dive-In to Pandas (Basics)](http://nbviewer.ipython.org/github/shankarmsy/practice_Pandas/blob/master/Dive-in%20To%20Pandas.ipynb)  
+[Dive-In to Pandas (Basics)](http://nbviewer.ipython.org/github/shankarmsy/practice_Pandas/blob/master/Dive-in%20to%20Pandas.ipynb)  
 
 [Data Munging with Pandas (Advanced)](http://nbviewer.ipython.org/github/shankarmsy/practice_Pandas/blob/master/Data%20Munging%20with%20Pandas.ipynb)
