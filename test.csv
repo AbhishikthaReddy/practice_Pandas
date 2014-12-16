@@ -1,0 +1,211 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Anomaly Data Listing</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body>
+<BODY BGCOLOR="#FFFFFF">
+<CENTER>
+<H1> Anomaly Data Listing</H1>
+</CENTER>
+<PRE>
+Summary of values for the dates between 12/3/2014 - 12/9/2014 
+Temperatures in degrees F, Precipitation in inches.
+Header abbreviations and descriptions. 
+Dep - Departure from average
+Pct - Percent of average
+Nt - No. days missing in period for temperature
+Np - No. days missing in period for precipitation
+Ndd - No. days missing in period for degree day computations
+90 - No. days with max. temperature > 90 F
+32 - No. days with min. temperature < 32 F
+h - No. days with at least one-hundredth inch (0.01")
+t - No. days with at least one-tenth inch (0.10")
+q - No. days with at least one-quarter inch (0.25")
+i - No. days with at least one inch (1.00")
+#### or -999 denotes missing or insufficient data")
+NOTE: Based on uneditted provisional data")
+Coop Id       Station Name          Tmax     Dep   Tmin     Dep   Tave     Dep    Nt    90    32    Prec     Dep    Pct    Np     h     t     q     i    HDD    Dep    CDD    Dep    G40    G50   Ndd
+ 040134   ALPINE 1 NNE              67.71  -999.0  51.14  -999.0  59.43   xx.xx     0     0     0    0.81   xx.xx   xxx     0     2     2     1     0     37   xxxx      0   xxxx    138     68     0
+ 040192   ANAHEIM                   74.57    3.89  55.86    8.10  65.21    6.00     0     0     0    1.59    1.22   429     1     2     2     2     0      6    -37      9      9    178    108     0
+ 040343   ASH MOUNTAIN              66.00    5.69  48.67   13.90  57.33    9.80     1     0     0    1.06    0.28   135     1     2     2     2     0     45    -77      0   xxxx    105     45     1
+ 040372   ATLAS ROAD                xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    4.20   xx.xx   xxx     0     4     4     3     3   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 040383   AUBURN                    61.83    6.42  49.33   10.66  55.58    8.55     1     0     0    7.69    6.14   496     1     4     4     4     3     55    -70      0   xxxx     95     35     1
+ 040442   BAKERSFIELD WSO AP        70.43   12.03  50.43   10.87  60.43   11.43     0     0     0    0.00   -0.20     0     0     0     0     0     0     30    -82      0   xxxx    145     75     0
+ 040449   BALCH POWER HOUSE         60.14    7.73  46.43    7.60  53.29    7.66     0     0     0    0.22   -0.64    25     0     2     1     0     0     79    -57      0   xxxx     96     26     0
+ 040521   BARSTOW FIRE STN          61.29    2.43  45.29   10.14  53.29    6.29     0     0     0    0.53    0.39   378     0     3     1     1     0     80    -46      0   xxxx     95     25     0
+ 040609   BEAUMONT 1 E              xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    3.07    2.61   667     0     2     2     2     2   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 040741   BIG BEAR LAKE             54.33    5.78  30.33    8.39  42.33    7.08     1     0     5    2.45    1.92   462     0     2     2     2     1    134    -74      0   xxxx     18      0     1
+ 040822   BISHOP WSO AP             58.00    3.60  30.86    8.09  44.43    5.83     0     0     5    0.00   -0.14     0     0     0     0     0     0    143    -42      0   xxxx     32      0     0
+ 040897   BLUE CANYON WSMO          48.14    4.40  42.00    8.81  45.07    6.63     0     0     0    5.97    3.42   234     0     4     4     4     1    138    -48      0   xxxx     37      0     0
+ 040924   BLYTHE                    74.83    7.13  53.67   13.85  64.25   10.51     1     0     0    0.07   -0.06    53     1     2     0     0     0      4    -75      2      2    148     88     1
+ 040927   BLYTHE FAA AP             73.86    6.61  54.00   12.63  63.93    9.63     0     0     0    0.08   -0.03    71     0     1     0     0     0      7    -67      2      2    170    100     0
+ 040931   BOCA                      45.71    2.46  28.57   14.16  37.14    8.31     0     0     6    1.64    0.81   197     0     4     3     2     1    193    -60      0   xxxx      1      0     0
+ 040943   BODIE                     44.83    2.90  12.00    5.29  28.42    4.12     1     0     6    0.00   -0.30     0     1     0     0     0     0    218    -66      0   xxxx      0      0     1
+ 040983   BORREGO DESERT PARK       73.86    4.73  55.00   11.84  64.43    8.30     0     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx     11    -50      9      9    173    103     0
+ 041072   BRIDGEPORT                50.43    5.99  20.00    8.60  35.21    7.29     0     0     7    0.28   -0.04    87     0     1     1     1     0    208    -52      0   xxxx      1      0     0
+ 041130   BRUSH CREEK R S           xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    7.15    4.02   228     0     5     5     4     3   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 041194   BURBANK VALLEY PMP PLT    74.00    6.44  49.83    8.26  61.92    7.35     1     0     0    0.03   -0.40     6     1     1     0     0     0     17    -56      0   xxxx    133     73     1
+ 041214   BURNEY                    49.57    5.87  36.29   15.06  42.93   10.49     0     0     1    2.91    1.88   282     0     5     3     3     1    154    -74      0   xxxx     22      0     0
+ 041253   CACHUMA DAM               69.14    1.80  41.29    2.79  55.21    2.29     0     0     0    1.54    0.97   270     0     2     1     1     1     67    -18      0   xxxx    108     38     0
+ 041312   CALISTOGA                 61.14    1.73  51.57   14.64  56.36    8.19     0     0     0    3.09    1.46   189     0     6     5     2     1     59    -58      0   xxxx    116     46     0
+ 041424   CAMPO                     66.00    2.36  45.17   12.47  55.58    7.41     1     0     0    1.33    0.86   283     1     2     2     1     1     55    -63      0   xxxx     95     35     1
+ 041484   CANOGA PARK PIERCE COL    73.00  -999.0  49.00  -999.0  61.00   xx.xx     0     0     0    0.52   xx.xx   xxx     0     2     2     1     0     26   xxxx      0   xxxx    149     79     0
+ 041700   CHESTER                   44.86    3.19  35.57   13.06  40.21    8.13     0     0     1    3.48    2.24   280     0     5     4     3     2    172    -58      0   xxxx     11      0     0
+ 041758   CHULA VISTA               70.83    2.99  58.17   12.40  64.50    7.70     1     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx      5    -52      3      3    148     88     1
+ 041967   CONCORD WASTEWATER PL     64.71    6.46  54.14   12.49  59.43    9.49     0     0     0    1.83    1.15   269     0     3     3     1     1     37    -68      0   xxxx    138     68     0
+ 041990   COPCO DAM 1               57.83  -999.0  38.83  -999.0  48.33   xx.xx     1     0     0    0.51   -0.36    58     1     3     3     0     0     99   xxxx      0   xxxx     51      2     1
+ 042012   CORCORAN IRRIG DIST OF    67.83   10.50  46.33   10.26  57.08   10.37     1     0     0    0.00   -0.19     0     1     0     0     0     0     47    -82      0   xxxx    103     43     1
+ 042149   CRESCENT CITY FAA AP      62.71    9.11  53.29   11.83  58.00   10.47     0     0     0    1.91   -0.18    91     0     7     5     3     0     48    -74      0   xxxx    127     57     0
+ 042214   CULVER CITY               69.71    4.73  54.43    6.73  62.07    5.74     0     0     0    0.23   -0.18    56     1     2     1     0     0     18    -43      0   xxxx    157     87     0
+ 042257   DAGGETT FAA AP            65.14    4.41  46.86   11.26  56.00    7.84     0     0     0    0.13    0.01   108     0     2     0     0     0     61    -57      0   xxxx    114     44     0
+ 042294   DAVIS 2 WSW EXP FRM       63.43    7.13  52.14   13.66  57.79   10.37     0     0     0    3.30    2.58   458     0     3     3     3     1     49    -74      0   xxxx    126     56     0
+ 042346   DELANO                    66.50  -999.0  46.17  -999.0  56.33   xx.xx     1     0     0    0.00   -0.21     0     1     0     0     0     0     51   xxxx      0   xxxx     99     40     1
+ 042402   DE SABLA                  xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    5.69    2.95   207     0     5     5     3     3   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 042598   EAGLE MTN                 67.17    2.18  54.17    8.35  60.67    5.27     1     0     0    0.15    0.03   125     1     2     1     0     0     24    -43      0   xxxx    126     66     1
+ 042706   EL CAJON                  73.67    4.02  55.50   13.93  64.58    8.98     1     0     0    1.01    0.61   252     0     2     2     2     0      4    -62      3      3    149     89     1
+ 042713   EL CENTRO 2 SSW           71.71    1.23  53.14    9.84  62.43    5.56     0     0     0    0.24    0.15   266     0     2     2     0     0     22    -35      6      6    159     89     0
+ 042749   ELK VALLEY                xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    2.20   xx.xx   xxx     0     6     4     2     1   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 042805   ELSINORE                  71.50    5.24  53.33   14.72  62.42    9.99     1     0     0    1.07    0.75   334     0     2     2     2     0     15    -73      1      1    136     76     1
+ 042871   ESCONDIDO CHURCH RCH      72.00  -999.0  55.83  -999.0  63.92   xx.xx     1     0     0    1.22   xx.xx   xxx     0     3     2     2     0      7   xxxx      1   xxxx    144     84     1
+ 042910   EUREKA WSO CI             65.00    9.76  50.67    9.82  57.83    9.79     1     0     0    1.86    0.05   102     1     3     3     3     1     42    -77      0   xxxx    108     48     1
+ 042941   FAIRMONT                  57.00    2.14  45.29    8.76  51.14    5.43     0     0     0    2.42    1.99   562     0     2     2     1     1     94    -42      0   xxxx     81     13     0
+ 043161   FORT BRAGG 1 E            60.14    8.01  50.86   10.41  55.50    9.20     0     0     0    4.41    2.55   237     0     7     5     4     2     65    -67      0   xxxx    110     40     0
+ 043244   UNKNOWN OR NEW            67.14    8.33  53.86   10.69  60.50    9.51     0     0     0    1.55    0.99   276     1     2     2     1     1     30    -68      0   xxxx    145     75     0
+ 043257   FRESNO WSO AP             66.57    9.67  50.43   11.84  58.50   10.77     0     0     0    0.00   -0.33     0     0     0     0     0     0     44    -77      0   xxxx    131     61     0
+ 043261   FRIANT GOVT CAMP          67.86    9.01  51.00   13.74  59.43   11.39     0     0     0    0.34   -0.09    79     0     1     1     1     0     36    -83      0   xxxx    139     69     0
+ 043357   GASQUET R S               xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    2.96   -1.07    73     0     6     5     2     1   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 043384   GEORGETOWN R S            xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    3.12    1.50   192     1     4     3     3     2   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 043463   GLENNVILLE                60.86    5.36  34.14    5.93  47.50    5.64     0     0     3    0.70    0.08   112     0     1     1     1     0    121    -41      0   xxxx     54      0     0
+ 043491   GOLD RUN 2 SW             xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    7.05    4.90   327     0     5     4     4     2   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 043551   GRANT GROVE               48.57    3.97  32.43    5.50  40.50    4.73     0     0     5    1.92    0.59   144     0     2     1     1     1    169    -35      0   xxxx     11      0     0
+ 043573   GRASS VALLEY 2            55.86    3.03  44.57   11.36  50.21    7.20     0     0     0    5.26    3.01   233     0     5     4     3     2    101    -53      0   xxxx     74      5     0
+ 043669   GROVELAND 2               59.50    7.29  39.50    9.27  49.50    8.29     1     0     0    1.29    0.21   119     1     2     1     1     1     91    -76      0   xxxx     59      2     1
+ 043747   HANFORD 1 S               65.86    9.76  48.57   12.47  57.21   11.11     0     0     0    0.26   -0.01    96     0     1     1     1     0     52    -80      0   xxxx    123     53     0
+ 044074   HONEYDEW 1 SW             xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    6.12   xx.xx   xxx     0     6     5     5     3   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 044176   HUNTINGTON LAKE           xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    1.12   -0.22    83     0     4     2     2     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 044211   IDYLLWILD FIRE DEPT       61.71    5.59  39.29    9.77  50.50    7.66     0     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx    100    -55      0   xxxx     75     15     0
+ 044224   UNKNOWN OR NEW            73.29    3.60  54.43   13.27  63.86    8.43     0     0     0    0.18    0.01   106     0     1     1     0     0      9    -58      4      4    170    100     0
+ 044259   INDIO FIRE STATION        74.00    1.96  58.17   13.25  66.08    7.63     1     0     0    0.02   -0.07    22     0     0     0     0     0      7    -40     15     15    158     98     1
+ 044280   INYOKERN ARMITAGE         63.14  -999.0  43.14  -999.0  53.14   xx.xx     0     0     0    0.00   xx.xx   xxx     0     0     0     0     0     82   xxxx      0   xxxx     93     23     0
+ 044297   IRON MTN                  69.33    3.20  55.50    9.94  62.42    6.56     1     0     0    0.25    0.14   227     1     3     1     0     0     17    -47      3      3    136     76     1
+ 044405   JOSHUA TREE               61.43    0.81  45.00    9.03  53.21    4.91     0     0     0    0.27    0.20   382     0     3     1     0     0     81    -35      0   xxxx     94     24     0
+ 044412   JULIAN                    57.33    3.09  47.00   10.94  52.17    7.02     1     0     0    0.82    0.24   141     0     2     1     1     0     76    -62      0   xxxx     74     18     1
+ 044500   KENTFIELD                 62.29    6.29  55.14   13.00  58.71    9.66     0     0     0    4.35    2.28   210     0     4     4     3     2     42    -69      0   xxxx    133     63     0
+ 044534   KETTLEMAN CITY            66.71    8.20  48.14   12.61  57.43   10.39     0     0     0    0.42    0.26   262     0     2     2     1     0     51    -74      0   xxxx    124     54     0
+ 044712   LAKE SOLANO               62.71    4.96  51.43   12.07  57.07    8.53     0     0     0    2.46    1.47   248     0     3     3     2     1     54    -61      0   xxxx    121     51     0
+ 044749   LANCASTER FSS             61.00    2.00  40.43   10.14  50.71    6.07     0     0     0    0.09   -0.11    45     0     1     0     0     0     98    -45      0   xxxx     77      8     0
+ 044863   LEBEC                     54.67  -999.0  40.17  -999.0  47.42   xx.xx     1     0     0    1.50    1.20   500     0     1     1     1     1    103   xxxx      0   xxxx     47      0     1
+ 044881   LEE VINING                49.00    4.97  29.57    7.23  39.29    6.07     0     0     6    0.50    0.05   111     0     1     1     1     0    180    -43      0   xxxx      8      0     0
+ 044890   LEMON COVE                70.14   11.43  47.29    9.60  58.71   10.50     0     0     0    0.34   -0.08    80     0     1     1     1     0     41    -76      0   xxxx    134     64     0
+ 044957   LINDSAY                   67.57    8.01  46.57   10.34  57.07    9.17     0     0     0    0.43    0.06   116     0     1     1     1     0     54    -66      0   xxxx    121     51     0
+ 045028   LODGEPOLE RANGER STN      44.57  -999.0  26.57  -999.0  35.57   xx.xx     0     0     7    2.44   xx.xx   xxx     0     1     1     1     1    204   xxxx      0   xxxx      0      0     0
+ 045064   LOMPOC                    68.33    4.72  55.00   13.00  61.67    8.90     1     0     0    0.31   -0.19    62     1     1     1     1     0     19    -66      0   xxxx    131     71     1
+ 045085   LONG BEACH WSO AP         72.14    4.79  56.14    9.79  64.14    7.27     0     0     0    0.81    0.43   213     0     1     1     1     0      8    -49      3      3    170    100     0
+ 045114   LOS ANGELES WSO AP        69.00    3.81  56.29    7.01  62.64    5.40     0     0     0    0.21   -0.18    53     0     1     1     0     0     16    -39      1      1    160     90     0
+ 045115   LOS ANGELES CIVIC CTR     72.57    4.40  55.86    7.89  64.21    6.14     0     0     0    0.31   -0.10    75     0     1     1     1     0      7    -42      2      2    170    100     0
+ 045147   LOS PRIETOS R S           xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    1.99    1.32   297     0     2     1     1     1   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 045280   MAMMOTH LAKES RANGER STN  43.00    1.29  24.43    7.13  33.71    4.21     0     0     7    0.75   xx.xx   xxx     0     1     1     1     0    217    -32      0   xxxx      0      0     0
+ 045352   MARIPOSA R S              xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    0.84   -0.30    73     0     2     2     1     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 045360   MARKLEY COVE              64.14    6.46  51.00   14.67  57.57   10.56     0     0     0    3.67    2.62   349     0     5     4     4     1     51    -75      0   xxxx    124     54     0
+ 045738   MODESTO                   64.57    6.93  52.00   11.54  58.29    9.24     0     0     0    0.23   -0.16    58     0     3     1     0     0     44    -68      0   xxxx    131     61     0
+ 045785   MONTAGUE SISK CO AP       55.57   11.10  36.29   10.29  45.93   10.70     0     0     0    0.49   -0.07    87     0     6     2     0     0    132    -78      0   xxxx     43      0     0
+ 045799   MONTEREY NALF             66.14  -999.0  53.14  -999.0  59.64   xx.xx     0     0     0    0.63   xx.xx   xxx     0     3     2     1     0     35   xxxx      0   xxxx    140     70     0
+ 045802   UNKNOWN OR NEW            64.86    6.73  53.71   11.00  59.29    8.86     0     0     0    0.68    0.18   136     0     4     3     1     0     38    -64      0   xxxx    137     67     0
+ 045915   MOUNT DIABLO JUNCTION     58.43    2.73  51.14   10.91  54.79    6.83     0     0     0    2.76    1.81   290     0     3     3     3     1     68    -51      0   xxxx    107     37     0
+ 045983   MOUNT SHASTA              51.00    5.96  43.14   16.64  47.07   11.31     0     0     0    3.59    1.95   218     0     5     5     3     2    123    -82      0   xxxx     52      0     0
+ 046006   MT WILSON 2               58.00    2.76  44.33    7.60  51.17    5.20     1     0     0    1.57    0.66   172     0     2     2     2     1     81    -51      0   xxxx     69     15     1
+ 046118   NEEDLES FAA AP            71.71    7.19  55.43   12.06  63.57    9.63     0     0     0    0.08   -0.01    91     0     2     0     0     0     11    -67      3      3    167     97     0
+ 046136   NEVADA CITY               53.00    3.47  45.57   10.84  49.29    7.17     0     0     0    6.38    3.73   240     0     6     4     3     3    108    -52      0   xxxx     67      1     0
+ 046154   NEW CUYAMA FIRE STN       xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    0.01   -0.20     4     1     0     0     0     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 046174   UNKNOWN OR NEW            65.29    7.71  49.14   10.29  57.21    8.99     0     0     0    1.39    0.46   149     0     3     2     2     0     53    -64      0   xxxx    122     52     0
+ 046175   NEWPORT BEACH HARBOR      67.86    3.87  57.86    8.03  62.86    5.96     0     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx     12    -45      0   xxxx    163     93     0
+ 046335   OAKLAND WSO AP            65.57    7.86  54.14   12.21  59.86   10.04     0     0     0    1.66    0.93   227     0     4     2     1     1     35    -71      0   xxxx    140     70     0
+ 046336   OAKLAND MUSEUM            69.33    9.88  56.33   10.73  62.83   10.30     1     0     0    2.30    1.40   255     0     3     2     1     1     11    -76      0   xxxx    139     79     1
+ 046370   OCCIDENTAL                58.33    3.79  52.67   11.42  55.50    7.61     1     0     0    4.24    1.50   154     0     7     5     4     1     55    -65      0   xxxx     95     35     1
+ 046377   OCEANSIDE MARINA          68.33    4.68  58.00   12.77  63.17    8.74     1     0     0    1.23    0.90   372     0     2     2     2     0     11    -63      1      1    140     80     1
+ 046399   OJAI                      xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    1.87    1.36   366     0     2     2     1     1   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 046506   ORLAND                    62.00    5.17  51.86   14.17  56.93    9.67     0     0     0    3.83    3.09   517     0     5     4     3     1     54    -70      0   xxxx    121     51     0
+ 046624   PALMDALE                  59.50    0.06  43.33    8.73  51.42    4.40     1     0     0    0.30    0.07   130     1     2     2     0     0     80    -46      0   xxxx     70     11     1
+ 046627   PALMDALE FAA AP           60.57    1.06  43.29   12.24  51.93    6.64     0     0     0    0.11    0.00   100     0     1     1     0     0     90    -48      0   xxxx     85     15     0
+ 046635   PALM SPRINGS              70.67    0.51  56.33   11.58  63.50    6.06     1     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx     17    -36      9      9    142     82     1
+ 046646   PALO ALTO                 63.83    4.50  54.00   15.40  58.92    9.95     1     0     0    2.04    1.46   351     1     3     3     2     1     34    -78      0   xxxx    116     56     1
+ 046657   PALOMAR MTN OBSY          54.00    3.60  43.43    7.23  48.71    5.41     0     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx    113    -39      0   xxxx     62      7     0
+ 046699   PARKER RESERVOIR          70.43    4.51  48.29    8.13  59.36    6.31     0     0     0    0.30    0.19   272     0     3     1     0     0     39    -44      0   xxxx    136     66     0
+ 046719   PASADENA                  xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    2.67    2.12   485     0     2     2     2     1   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 046730   PASO ROBLES               66.00    4.74  49.57   16.81  57.79   10.79     0     0     0    1.11    0.65   241     0     4     3     2     0     50    -76      0   xxxx    125     55     0
+ 046742   PASO ROBLES FAA AP        66.43    6.37  50.43   16.29  58.43   11.31     0     0     0    0.47    0.12   133     0     3     2     1     0     45    -80      0   xxxx    130     60     0
+ 046943   PISMO BEACH               68.57    7.70  55.71   10.80  62.14    9.26     0     0     0    0.31   -0.19    62     0     2     1     0     0     18    -67      0   xxxx    157     87     0
+ 046946   PIT RIVER P H 5           xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    7.62    4.44   239     0     7     6     6     3   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 047050   POMONA CAL POLY           70.86    2.44  53.14   10.39  62.00    6.43     0     0     0    0.96    0.48   200     0     2     2     2     0     19    -47      0   xxxx    156     86     0
+ 047085   PORTOLA                   48.43    5.84  32.43   12.29  40.43    9.03     0     0     3    3.17    2.32   372     0     4     4     2     2    169    -66      0   xxxx     10      0     0
+ 047109   POTTER VALLEY P H         59.00    3.47  49.83   14.89  54.42    9.17     1     0     0    3.99    1.94   194     1     5     4     4     1     61    -77      0   xxxx     89     29     1
+ 047195   QUINCY                    48.14    3.23  39.00   11.79  43.57    7.53     0     0     0    6.28    4.74   407     0     5     4     4     2    148    -55      0   xxxx     27      0     0
+ 047292   RED BLUFF WSO AP          60.43    4.90  52.71   14.57  56.57    9.74     0     0     0    2.87    2.04   345     0     5     5     2     1     56    -72      0   xxxx    119     49     0
+ 047304   REDDING WSO               59.43    3.69  52.29   15.37  55.86    9.53     0     0     0    2.45    1.15   188     0     6     4     3     1     63    -68      0   xxxx    112     42     0
+ 047339   REDWOOD CITY              66.00    6.99  54.29   13.27  60.14   10.13     0     0     0    2.36    1.55   291     0     4     3     2     1     34    -71      0   xxxx    141     71     0
+ 047470   RIVERSIDE FIRE STN 3      73.67    4.51  53.33   11.30  63.50    7.90     1     0     0    0.68    0.38   226     1     2     2     1     0     10    -56      2      2    142     82     1
+ 047630   SACRAMENTO FAA AP         64.86    9.01  53.14   14.24  59.00   11.63     0     0     0    2.34    1.67   349     0     3     2     1     1     40    -83      0   xxxx    135     65     0
+ 047633   SACRAMENTO WSO CI         65.43    9.43  53.71   12.60  59.57   11.00     0     0     0    2.03    1.31   281     0     3     2     1     1     36    -79      0   xxxx    139     69     0
+ 047646   SAINT HELENA 4 WSW        xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    4.80   xx.xx   xxx     0     5     4     4     2   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 047668   SALINAS 3 E               67.29    4.16  50.71   10.67  59.00    7.39     0     0     0    0.47   -0.02    95     0     3     2     0     0     41    -53      0   xxxx    134     64     0
+ 047669   SALINAS FAA AP            69.00    7.10  54.43   13.07  61.71   10.07     0     0     0    0.27   -0.12    69     0     2     1     0     0     22    -72      1      1    154     84     0
+ 047735   SANDBERG WSMO             57.71    8.89  47.00    9.74  52.36    9.33     0     0     0    0.58    0.20   152     0     1     1     1     0     87    -66      0   xxxx     88     19     0
+ 047740   SAN DIEGO WSO AP          71.29    6.03  58.29    9.27  64.79    7.64     0     0     0    2.11    1.80   680     0     2     2     2     1      3    -52      3      3    175    105     0
+ 047769   SAN FRANCISCO WSO AP      66.00    8.24  57.14   11.64  61.57    9.93     0     0     0    2.22    1.41   274     0     4     2     1     1     22    -72      0   xxxx    153     83     0
+ 047772   SAN FRAN MISSI DOLORES    65.29    7.04  57.71   10.71  61.50    8.87     0     0     0    2.23    1.27   232     0     5     3     1     1     22    -65      0   xxxx    153     83     0
+ 047776   SAN GABRIEL CANYON P H    72.00  -999.0  57.29  -999.0  64.64   xx.xx     0     0     0    2.21    1.60   362     0     2     2     2     1      9   xxxx      9   xxxx    175    105     0
+ 047821   SAN JOSE                  65.86  -999.0  53.43  -999.0  59.64   xx.xx     0     0     0    1.33   xx.xx   xxx     0     3     1     1     1     36   xxxx      0   xxxx    139     69     0
+ 047851   SAN LUIS OBISPO POLY      69.33    7.49  53.33    9.59  61.33    8.53     1     0     0    1.01    0.30   142     0     2     2     2     0     19    -67      0   xxxx    131     71     1
+ 047880   SAN RAFAEL CIVIC CENTER   65.43    9.57  56.86   14.27  61.14   11.91     0     0     0    5.44    3.74   320     0     5     5     5     2     24    -86      0   xxxx    151     81     0
+ 047888   SANTA ANA FIRE STN        74.00    4.33  56.86   10.21  65.43    7.27     0     0     0    0.93    0.50   216     0     2     2     2     0      3    -46      8      8    180    110     0
+ 047902   SANTA BARBARA             67.17    1.71  56.67    9.51  61.92    5.60     1     0     0    0.37   -0.16    69     1     2     2     0     0     18    -43      1      1    133     73     1
+ 047905   SANTA BARBARA FAA AP      68.57    4.16  50.86   10.17  59.71    7.16     0     0     0    0.24   -0.27    47     0     2     1     0     0     35    -52      0   xxxx    140     70     0
+ 047910   SANTA CATALINA WB AP      65.14    5.89  56.29    7.56  60.71    6.73     0     0     0    0.58    0.32   222     0     1     1     1     0     29    -48      1      1    147     77     0
+ 047916   SANTA CRUZ                64.00    1.54  55.00   13.09  59.50    7.31     0     0     0    2.00    0.83   170     0     4     4     2     1     37    -53      0   xxxx    138     68     0
+ 047933   SANTA MARGARITA BOOSTER   xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    1.40    0.41   141     0     5     3     3     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 047946   SANTA MARIA WSO AP        70.71    6.51  53.43   13.81  62.07   10.16     0     0     0    0.04   -0.37     9     0     2     0     0     0     20    -71      2      2    157     87     0
+ 047953   SANTA MONICA PIER         xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    0.07   -0.28    20     1     3     0     0     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 048014   SAUGUS POWER PLANT 1      61.50  -999.0  46.17  -999.0  53.83   xx.xx     1     0     0    0.72    0.14   124     1     2     2     1     0     65   xxxx      0   xxxx     85     25     1
+ 048025   SAWYERS BAR R S           xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    1.20   -0.50    70     0     4     4     3     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 048135   SHASTA DAM                55.57    1.86  50.86    9.90  53.21    5.90     0     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx     81    -43      0   xxxx     94     24     0
+ 048218   SIERRAVILLE R S           xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    2.65   xx.xx   xxx     0     4     2     2     1   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 048273   UNKNOWN OR NEW            57.67    6.72  49.50    9.93  53.58    8.35     1     0     0    4.66    3.04   287     1     4     4     3     1     68    -71      0   xxxx     82     22     1
+ 048353   SONORA R S                63.29    7.94  43.57   10.84  53.43    9.40     0     0     0    1.97    0.83   172     0     4     2     2     1     79    -67      0   xxxx     96     26     0
+ 048558   STOCKTON WSO AP           65.43    9.51  52.57   14.84  59.00   12.17     0     0     0    0.28   -0.17    62     0     3     1     0     0     40    -88      0   xxxx    135     65     0
+ 048560   STOCKTON FIRE STN 4       xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    1.20    0.59   196     0     3     3     1     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 048587   STONY GORGE RESERVOIR     58.14    1.71  47.86   14.96  53.00    8.34     0     0     0    3.60    2.80   450     0     5     3     3     2     81    -62      0   xxxx     94     24     0
+ 048606   STRAWBERRY VALLEY         xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    9.00    5.44   252     0     6     5     5     3   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 048713   SUTTER HILL R S           61.57    8.01  50.86   12.74  56.21   10.39     0     0     0    2.51    1.41   228     0     5     4     2     1     60    -74      0   xxxx    115     45     0
+ 048758   TAHOE CITY                45.14    4.63  31.14   10.10  38.14    7.37     0     0     5    2.40    1.11   186     0     4     4     2     1    186    -54      0   xxxx      1      0     0
+ 048762   TAHOE VALLEY FAA AP       49.57    5.56  30.00   12.57  39.79    9.07     0     0     6    0.63    0.08   115     0     3     2     1     0    175    -65      0   xxxx      3      0     0
+ 048829   UNKNOWN OR NEW            55.14    3.79  37.00    5.13  46.07    4.47     0     0     1    0.53    0.03   106     0     1     1     1     0    130    -34      0   xxxx     45      1     0
+ 048892   THERMAL FAA AP            76.14    5.04  50.29   14.01  63.21    9.53     0     0     0    0.01   -0.06    16     0     1     0     0     0     14    -66      3      3    164     94     0
+ 048973   TORRANCE                  71.00    5.20  55.00    8.29  63.00    6.76     0     0     0    0.67    0.29   176     0     2     1     1     0     14    -48      1      1    162     92     0
+ 049006   TRAVIS A F B              64.67  -999.0  53.00  -999.0  58.83   xx.xx     1     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx     36   xxxx      0   xxxx    114     54     1
+ 049035   TRONA                     62.14    1.84  47.57   12.56  54.86    7.21     0     0     0    1.00    0.88   833     0     1     1     1     0     70    -51      0   xxxx    105     35     0
+ 049099   TWENTYNINE PALMS          xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    0.05   -0.07    41     0     1     0     0     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 049124   UKIAH 4 WSW               xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    4.69   xx.xx   xxx     0     7     5     5     3   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 049127   UKIAH FAA AP              60.43    4.61  51.71   15.76  56.07   10.19     0     0     0    2.79    1.53   221     0     4     4     2     1     61    -72      0   xxxx    114     44     0
+ 049152   U C L A                   72.83    5.68  59.00    7.90  65.92    6.79     1     0     0    0.26   -0.24    52     0     1     1     1     0      5    -39     12     12    157     97     1
+ 049273   VENADO                    xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    8.00    6.03   406     0     6     6     4     3   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 049325   VICTORVILLE PUMP PLANT    59.83   -0.84  44.00   12.24  51.92    5.69     1     0     0    0.45    0.24   214     1     1     1     1     0     78    -53      0   xxxx     72     12     1
+ 049367   VISALIA                   65.14    8.99  48.43    9.99  56.79    9.47     0     0     0    0.29   -0.03    90     0     1     1     1     0     57    -67      0   xxxx    118     48     0
+ 049378   VISTA 2 NNE               71.00    4.53  57.33   11.88  64.17    8.20     1     0     0    1.13    0.78   322     1     2     2     2     0     12    -51      8      8    146     86     1
+ 049452   WASCO                     xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    0.40    0.21   210     0     1     1     1     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 049473   WATSONVILLE WATERWORKS    66.57    4.80  54.00   14.00  60.29    9.39     0     0     0    1.60    0.74   186     0     6     4     1     1     31    -67      0   xxxx    144     74     0
+ 049490   WEAVERVILLE R S           56.17    8.62  44.50   13.61  50.33   11.13     1     0     0    2.57    0.87   151     1     5     5     5     0     87    -93      0   xxxx     63      9     1
+ 049560   WESTHAVEN                 xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    1.34   xx.xx   xxx     0     4     2     2     0   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 049699   WILLOWS 6 W               62.17    2.34  49.50   12.50  55.83    7.42     1     0     0  xxx.xx   xx.xx   xxx   xxx   xxx   xxx   xxx   xxx     54    -62      0   xxxx     96     36     1
+ 049742   WINTERS                   63.57    4.87  52.43   13.23  58.00    9.06     0     0     0    3.02    2.10   328     0     4     3     2     1     47    -66      0   xxxx    128     58     0
+ 049847   YORBA LINDA               xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    2.69    2.19   538     0     2     2     2     2   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 049851   YORKVILLE                 xx.xx   xx.xx  xx.xx   xx.xx  xx.xx   xx.xx   xxx   xxx   xxx    6.80   xx.xx   xxx     0     6     6     5     2   xxxx   xxxx   xxxx   xxxx   xxxx   xxxx   xxx
+ 049855   YOSEMITE PARK HDQ         52.57    4.81  37.43    8.69  45.00    6.77     0     0     0    1.28    0.03   102     0     2     2     2     1    138    -49      0   xxxx     37      0     0
+ 049866   YREKA                     54.14    8.43  37.57   11.59  45.86   10.01     0     0     0    0.55   -0.36    60     0     5     4     0     0    132    -72      0   xxxx     43      0     0
+</PRE>
+
+</body>
+</html>
